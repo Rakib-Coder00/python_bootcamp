@@ -1,0 +1,17 @@
+Modules, Comments & PIP
+
+print("Hello World!") ==> print is a function (more later)
+
+* Modules : A Module is a file containing code written by somebody else(usually) which can be imported and use in our programs.
+
+* PIP : PIP is the Package Manager fro Python. You can use pip to install a module on your system.
+
+
+** Types of Modules:
+
+-- There are two types of modules in Python.
+
+1.Built in module -> Pre installed in python.
+                     Ex: os, abc etc
+2.External module -> need to install using pip.
+                     Ex: tensorflow, flask etc
