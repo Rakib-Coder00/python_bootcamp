@@ -1,0 +1,49 @@
+** Variable:
+A variable is the name given to a memory location in a program that can be used to store data.
+
+
+** Data Types:
+Data types are the types of data that can be stored in a variable.
+
+1.Integers: Integers are whole numbers.
+2.Floating point numbers : Floating point numbers are numbers with a decimal point.
+3.Strings: A string is a sequence of characters. A string is enclosed in quotes. For example, "Hello World".
+4.Booleans: A boolean is either true or false. For example, true or false.
+5.None: None is a special value that is used to indicate that a variable has no value.
+
+
+** Python is a fantastic language that automatically identifies the type of data for us.
+
+a = 71   -> Identifies a as <class 'int'>
+b = 3.14 -> Identifies b as <class 'float'>
+c = "Hello" -> Identifies c as <class 'str'>
+
+
+** Rules for defining a variable name ->
+-- A variable name can contain letters, numbers, and underscores. It cannot start with a number.
+-- A variable name can only start with a letter or an underscore.
+-- A variable name cannot be a reserved word.
+-- A variable name cannot be the same as another variable name.
+-- white space is not allowed in the variable name.
+-- A variable is a case sensitive.
+
+
+[** Python is a dynamically typed language.
+** Python is a strongly typed language.]
+
+** Operators in Python:
+1. Arithmetic Operators:
+    + Addition
+    - Subtraction
+    * Multiplication
+    / Division
+    % Modulus ETC.
+2. Comparison Operators:
+    == Equal to
+    != Not equal to
+    > Greater than
+    < Less than
+    >= Greater than or equal to
+    <= Less than or equal to
+3. Logical Operators:  and, or, not
+4. Assignment operators: =, +=, -=, *= etc
