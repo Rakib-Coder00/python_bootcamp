@@ -15,3 +15,15 @@ print("Hello World!") ==> print is a function (more later)
                      Ex: os, abc etc
 2.External module -> need to install using pip.
                      Ex: tensorflow, flask etc
+
+**Using Python as a calculator :
+we can use python as a calculator by typing typing 'python  + on the terminal. -> This opens REPL or Real Evaluate Print loop.
+
+** Comment :
+comments are used to write something which the programmer does't want to execute. can be used to mark author name, date etc.
+
+
+**Types of comments:
+There are two types of comments in python.
+1.single line comments -> written using #
+2.Multi line comments -> written using '''comment'''
