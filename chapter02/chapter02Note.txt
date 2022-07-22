@@ -47,3 +47,9 @@ c = "Hello" -> Identifies c as <class 'str'>
     <= Less than or equal to
 3. Logical Operators:  and, or, not
 4. Assignment operators: =, +=, -=, *= etc
+
+** type() function & Typecasting:
+--type function is used to identify the type of data that is stored in a variable.
+
+--Typecasting is the process of converting one data type to another data type.
+A number can be converted to a string by using the str() function.
