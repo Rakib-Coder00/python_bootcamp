@@ -53,3 +53,9 @@ c = "Hello" -> Identifies c as <class 'str'>
 
 --Typecasting is the process of converting one data type to another data type.
 A number can be converted to a string by using the str() function.
+
+
+** Input function:
+--The input function is used to get input from the user.
+--The input function takes a string as an argument.
+--The input function returns a string.
