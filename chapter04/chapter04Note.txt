@@ -1,0 +1,2 @@
+**List & Tuples :
+Python list are contains to store a set of any data type.
