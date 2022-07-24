@@ -18,6 +18,11 @@ print(name[3:]) # This will print from 3rd index to end
 print(name[-3:]) # This will print from last 3rd index to end
 
 
+# String Skip values:
+name = "RakibIsBad"
+d = name[0::2] # This will print "yh"
+print(d) 
+
 
 
 
