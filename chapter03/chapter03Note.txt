@@ -18,3 +18,12 @@ index=> 0123456
 
 
 ** Slicing with skip value: 
+
+
+
+
+
+**String Functions:
+Some of the mostly used functions in String are:
+
+1. len() : returns the length of the string.    len("Python") => 6
