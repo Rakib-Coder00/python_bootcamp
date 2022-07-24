@@ -1,2 +1,9 @@
 **List & Tuples :
 Python list are contains to store a set of any data type.
+
+
+**Tuples in Python :
+--A tuple is a collection of immutable Python objects.
+--Tuples are sequences, just like lists.
+--Tuples are immutable: they cannot be changed after they have been created.
+--Tuples can be used as keys in dictionaries.
