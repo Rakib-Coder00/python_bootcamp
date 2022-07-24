@@ -1,0 +1,20 @@
+**String: 
+String is a sequence of characters inclosed in quotes.
+String is immutable.
+String is a data type in Python.
+
+We can primarily use String in these three ways:
+1. single quote string ('') :
+2. double quote string ("")
+3. triple quote string (""")
+
+**String Slicing:
+A string in python can be sliced for getting a part of the string.
+Consider the following example:
+
+name = "Python" => length = 6
+index=> 0123456
+        (-5)(-4)(-3)(-2)(-1)(0)(1)(2)(3)(4)(5)
+
+
+** Slicing with skip value: 
