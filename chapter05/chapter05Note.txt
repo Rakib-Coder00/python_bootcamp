@@ -1,0 +1,23 @@
+**Dictionary & Sets
+--Dictionary is a collection of key-value pairs. 
+
+**Properties of a Python Dictionaries**
+1. Dictionaries are mutable.
+2. Dictionaries are unordered.
+3. Dictionaries are indexed by keys.
+4 Dictionaries are associated with key-value pairs.
+5. Dictionaries are created using curly braces.
+6.Cannot contain duplicate keys.
+
+**Dictionary Methods**
+1. dict.keys() : Returns a list of all the keys in the dictionary.
+2. dict.values() : Returns a list of all the values in the dictionary.
+3. dict.items() : Returns a list of all the key-value pairs in the dictionary.
+4. dict.get(key) : Returns the value associated with the key.
+5. dict.update(dict2) : Updates the dictionary with the key-value pairs from the dictionary passed as an argument.
+
+
+**Sets**
+Sets is a collection of non-repetitive elements.
+1. Sets are mutable.
+2. Sets are unordered.
