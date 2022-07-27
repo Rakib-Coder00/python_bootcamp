@@ -1,0 +1,3 @@
+Types of loops in python are:
+1.while loop
+2.for loop
