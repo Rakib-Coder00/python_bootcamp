@@ -1,0 +1,15 @@
+** File I/O  **
+
+
+**Types of files**
+1. Text files
+2. Binary files
+
+Modes of opening files:
+1. r - read
+2. w - write
+3. a - append
+4. t - text 
+
+'rb' - read binary
+'rt' - read text
