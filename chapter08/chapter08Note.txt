@@ -1,0 +1,5 @@
+**Function & Recursion**
+
+A Function is a group of statements a specific task.  
+A Function can be called by another function.
+A function can be called by giving it a name and passing it arguments.
