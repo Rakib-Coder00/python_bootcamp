@@ -1,5 +1,11 @@
 **Function & Recursion**
 
+**Function**
 A Function is a group of statements a specific task.  
 A Function can be called by another function.
 A function can be called by giving it a name and passing it arguments.
+
+
+**Recursion**
+Recursion is a function which calls itself.
+It is used to directly use a mathematical formula a a function.
