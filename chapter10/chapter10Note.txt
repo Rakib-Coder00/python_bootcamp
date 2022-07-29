@@ -1,0 +1,23 @@
+ ***  Object oriented Programming***
+
+ Solving a problem by creating object is on of the most popular approaches in programming. This is called Object Oriented Programming.
+
+ **Class :
+
+ A class is a blueprint for an object. A class can contain data and functions.
+
+
+ **Object :
+    An object is an instance of a class. An object is a real life entity.When class is defined, a template(info) is defined. Memory is allocated only after object instantiation.
+
+    Object of a given class can be invoke the methods available to it without revealing the implementation details to the user.
+
+
+** Modeling  a problem in OOP:
+
+
+** Class Attribute:
+An Attribute that belongs to the class rather than a particular object.
+
+** Instance Attribute:
+An Attribute that belongs to the instance(object).
