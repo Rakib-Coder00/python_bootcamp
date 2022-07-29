@@ -21,3 +21,7 @@ An Attribute that belongs to the class rather than a particular object.
 
 ** Instance Attribute:
 An Attribute that belongs to the instance(object).
+
+** self parameter:
+self is a reference to the current instance of the class.
+it's automatically passed with a function call from an object.
