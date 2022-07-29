@@ -29,3 +29,7 @@ it's automatically passed with a function call from an object.
 
 ** Static method:
 sometimes we need to use the same method for multiple objects.
+
+
+** Constructor:
+A special method that is called when an object is created.
