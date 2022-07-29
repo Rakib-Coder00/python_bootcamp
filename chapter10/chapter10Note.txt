@@ -25,3 +25,7 @@ An Attribute that belongs to the instance(object).
 ** self parameter:
 self is a reference to the current instance of the class.
 it's automatically passed with a function call from an object.
+
+
+** Static method:
+sometimes we need to use the same method for multiple objects.
