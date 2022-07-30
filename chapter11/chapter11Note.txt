@@ -1,0 +1,20 @@
+*** Inheritance & more on OOPs ***
+
+Inheritance is a way to create new classes from existing classes.
+
+** Syntax **
+class Employee:       --> Base class
+    # code
+
+class Programmer(Employee):    --> Derived or child class
+    # code 
+
+** Types of Inheritance :
+    1. Single Level Inheritance
+    2. Multi Level Inheritance
+    3. Multiple Inheritance
+    4. Hybrid Inheritance    
+
+
+1.Single Inheritance:
+    
