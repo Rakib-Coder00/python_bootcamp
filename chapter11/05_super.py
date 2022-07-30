@@ -33,7 +33,7 @@ class Programmer(Employee):
     
     def takeBreath(self):
         super().takeBreath()
-        print("I am a Progarmmer so I am breathing++..")
+        print("I am a Programmer so I am breathing++..")
 
 # p = Person()
 # p.takeBreath() 
